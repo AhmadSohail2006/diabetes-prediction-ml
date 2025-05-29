@@ -12,7 +12,7 @@ chose logistic regression for medical interpretability.
 - **Evaluation**: 75% accuracy, F1-score of 0.66 for diabetic cases  
 - **Visualizations**: Feature importance and confusion matrix analysis  
 
-##  Results  
+## Results  
 ![Confusion Matrix](confusion_matrix.png)  
 *Model correctly identified 79/99 healthy patients and 37/55 diabetic cases*  
 
